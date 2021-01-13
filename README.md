@@ -1,4 +1,3 @@
-StatsGUI
 
 Hi,
 
